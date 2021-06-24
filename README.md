@@ -1,8 +1,8 @@
 # Hello-World
 Start with branch
 <html>
-  <title>Hello World</title>
   <body>
+    <title>Hello World</title>
     <ul>
   <li>Coffee</li>
   <li>Tea</li>
